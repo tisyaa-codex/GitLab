@@ -1,5 +1,3 @@
-
-
 \# GitLab Project Documentation
 
 
@@ -59,6 +57,4 @@ Tisya
 
 
 Git and GitHub help developers manage projects and collaborate efficiently.
-
-
 
