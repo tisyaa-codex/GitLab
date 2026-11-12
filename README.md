@@ -35,4 +35,9 @@ Clone the repository:
 ```bash
 
 git clone <repository-url>
+## Documentation
 
+Visit our [GitHub Wiki](https://github.com/tisyaa-codex/GitLab/wiki) for detailed documentation.
+
+- [Home](https://github.com/tisyaa-codex/GitLab/wiki)
+- [Setup Guide](https://github.com/tisyaa-codex/GitLab/wiki/Setup-Guide)
